@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IYFx7h1LX4ZewyTOSPQHY5CrsjOYUbogw/Dxf/ETZdY=",
+  "Hash": "TygQQ4w4cRhNeGXGPAv2xxs0dJbcT6kmS7Z0Wk4dKr4=",
   "Source": "VendasMVC.net",
   "BasePath": "_content/VendasMVC.net",
   "Mode": "Default",
@@ -236,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\paulo\\source\\repos\\VendasMVC.net\\VendasMVC.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css",
+      "SourceId": "VendasMVC.net",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paulo\\source\\repos\\VendasMVC.net\\VendasMVC.net\\wwwroot\\",
+      "BasePath": "_content/VendasMVC.net",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-flatly.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-flatly.css"
     },
     {
       "Identity": "C:\\Users\\paulo\\source\\repos\\VendasMVC.net\\VendasMVC.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
